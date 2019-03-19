@@ -1,0 +1,30 @@
+{"user":"prueba",
+ 
+    "categorias":[
+        
+        {"name":"Anime","description":"Monitos japoneses.","productions":[]},
+        {"name":"Aventuras","description":"Las mejores experiencias, las m\u00e1s arriesgadas.","productions":[]},{"name":"Comedia","description":"Te partir\u00e1s de risa.","productions":[]},
+        {"name":"Drama","description":"Contexto serio, con un tono y una orientaci\u00f3n m\u00e1s susceptible de inspirar tristeza y compasi\u00f3n. ","productions":[]}
+        
+        ],
+ 
+    "producciones":[
+        {"title":"1408","nationality":"USA","image":"imagenes\/1408.jpg","publication":"2007-06-22T00:00:00.000Z","synopsis":"Basada en un relato de Stephen King, cuenta la historia de un escritor de novelas de terror (John Cusack) bastante esc\u00e9ptico. De hecho, se dedica a desacreditar fen\u00f3menos paranormales ocurridos en supuestas casas encantadas. Aunque no cree en la existencia de vida m\u00e1s all\u00e1 de la muerte, sus ideas al respecto cambiar\u00e1n cuando entre en la habitaci\u00f3n 1408 del Hotel Dolphin.","resource":{},"locations":[]},
+        {"title":"Caza Fantasmas","nationality":"USA","image":"imagenes\/caza-fantasmas.jpg","publication":"1984-12-05T00:00:00.000Z","synopsis":"Durante sus a\u00f1os en la profesi\u00f3n, el detective Harrison (Michael Madsen) ha visto m\u00e1s horror que la mayor\u00eda de las personas podr\u00edan ver en dos vidas. Harrison est\u00e1 quemado y se prepara para pasar el testigo a un prometedor novato, que ya est\u00e1 listo para ocupar su puesto en el cuerpo de polic\u00eda, cuando tiene lugar el asesinato de varios matones de los bajos fondos. Harrison se ve obligado a ocuparse del que ser\u00eda su \u00faltimo caso junto a su joven protegido. Sin embargo, las investigaciones no consiguen ninguna pista clara sobre qui\u00e9n pudo cometer los cr\u00edmenes. Es entonces cuando el asesino empieza a burlarse del detective proporcionando una serie de pistas confusas, adem\u00e1s de unas fotograf\u00edas espeluznantes que deja en la escena del crimen. A partir de entonces, un caso que no qued\u00f3 resuelto en su d\u00eda amenaza con sacar a la luz ahora los pecados del pasado. ","resource":{},"locations":[]},
+        {"title":"La tumba de las luciernagas","nationality":"Jap\u00f3n","image":"imagenes\/tumba.jpg","publication":"1967-01-10T00:00:00.000Z","synopsis":"Segunda Guerra Mundial (1939-1945). Seita y Setsuko son hijos de un oficial de la marina japonesa que viven en Kobe. Un d\u00eda, durante un bombardeo, no consiguen llegar a tiempo al b\u00fanker donde su madre los espera. Cuando despu\u00e9s buscan a su madre, la encuentran malherida en la escuela, que ha sido convertida en un hospital de urgencia.","resource":{},"locations":[]},{"title":"Que se mueran los feos","nationality":"Espa\u00f1a","image":"imagenes\/feos.jpg","publication":"2010-06-24T00:00:00.000Z","synopsis":"Eliseo es feo, cojo, est\u00e1 soltero y nunca ha conocido el amor. Nati es fea, le falta un pecho y est\u00e1 separada, pero tampoco conoce el verdadero amor. \u00c9l piensa que lo peor de su vida est\u00e1 a\u00fan por llegar. Ella piensa exactamente todo lo contrario. Al morir la madre de Eliseo, los dos vuelven a encontrarse despu\u00e9s de veinte a\u00f1os. Quiz\u00e1 sea la \u00faltima oportunidad que se les presenta de enamorarse y ser felices.","resource":{},"locations":[]},{"title":"Red2","nationality":"USA","image":"imagenes\/red2.jpg","publication":"2025-02-25T00:00:00.000Z","synopsis":"Frank Moses (Bruce Willis), agente retirado de la CIA, vuelve a reunir a su peculiar equipo de \u00e9lite para emprender la b\u00fasqueda de un dispositivo nuclear port\u00e1til desaparecido. Durante la operaci\u00f3n tendr\u00e1n que enfrentarse a un ej\u00e9rcito de implacables asesinos, despiadados terroristas y oficiales del Gobierno enloquecidos por el poder. Todos ellos est\u00e1n ansiosos por hacerse con el arma letal, pero no son conscientes de lo que significa enfrentarse al equipo de Retirados Extremadamente Peligrosos y sus t\u00e1cticas de la vieja escuela.","resource":{},"locations":[]},
+        {"title":"Twin Peaks","nationality":"USA","image":"imagenes\/twin_peaks.jpg","publication":"1995-12-21T00:00:00.000Z","synopsis":"Serie de TV (1990-1991). 2 temporadas. 30 episodios. El exc\u00e9ntrico agente del FBI Dale Cooper (Kyle MacLachlan) llega a Twin Peaks, una peque\u00f1a poblaci\u00f3n monta\u00f1osa, para investigar el brutal asesinato de la joven y bella Laura Palmer, la chica m\u00e1s popular del instituto de la localidad. Con la ayuda del sheriff del pueblo, el amable Harry S. Truman (Michael Ontkean), el agente Cooper comienza a interrogar a los habitantes del pueblo y va descubriendo poco a poco que muchos de ellos esconden oscuros y misteriosos secretos.","seasons":[]}
+        
+        ],
+ 
+    "actores":[
+        {"name":"Javier","lastname1":"C\u00e1mara","lastname2":"Rodr\u00edguez","born":"1967-01-19T00:00:00.000Z","picture":"imagenes\/javier-camara.jpg"},
+        {"name":"John","lastname1":"Cusack","lastname2":"","born":"1970-08-28T00:00:00.000Z","picture":"imagenes\/john.jpg"},{"name":"Kyle","lastname1":"MacLachlan","lastname2":"","born":"1959-02-22T00:00:00.000Z","picture":"imagenes\/kyle.jpg"},{"name":"Mar\u00eda del Carmen","lastname1":"Garc\u00eda","lastname2":"y Maura","born":"1945-09-15T00:00:00.000Z","picture":"imagenes\/Carmen-Maura.jpg"},
+        {"name":"Samuel","lastname1":"L.Jackson","lastname2":"","born":"1948-12-21T00:00:00.000Z","picture":"imagenes\/samu.jpg"}
+        
+        ],
+ 
+    "directores":[
+        {"name":"David","lastname1":"Lynch","lastname2":"","born":"1946-01-20T00:00:00.000Z","picture":"imagenes\/David_Lynch.jpg"},{"name":"Dean","lastname1":"Parisot","lastname2":"","born":"1952-01-01T00:00:00.000Z","picture":"imagenes\/Dean.jpg"},{"name":"Isao","lastname1":"Takahata","lastname2":"","born":null,"picture":"imagenes\/Isao_Takahata.jpg"},{"name":"Ivan","lastname1":"Reitman","lastname2":"","born":"1946-07-30T00:00:00.000Z","picture":"imagenes\/Ivan_Reitman.jpg"}
+     
+        ]
+}
